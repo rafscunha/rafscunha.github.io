@@ -6,11 +6,11 @@
   role: Capitão de Equipe 
   duration: 2015 &mdash; 2016
   # url: "#"
-  description: Gerenciar o projeto, construção e testes da aeronave não tripulada "PINGUIM" integrando os cursos de engenharia mecânica, elétrica e ciência da computação da UNIOESTE, com o objetivo de competir na SAE AeroDesign 2016.
+  description: Realizei a gestão da equipe que projetou, construiu e testou a aeronave não tripulada "PINGUIM" integrando os cursos de engenharia mecânica, elétrica e ciência da computação da UNIOESTE, com o objetivo de competir na SAE AeroDesign 2016.
 
 # Capybara
 - project: Capybara
   role: Voluntário
   duration: 2016
   # url: "#"
-  description: Desenvolvimento de uma distribuição línux para os calouros de ciência da computação, assim como a confecção de manuais para inicar o uso da plataforma linux.
+  description: Desenvolvemos uma distribuição línux para os calouros de ciência da computação, assim como os manuais para inicar o uso da plataforma linux.
