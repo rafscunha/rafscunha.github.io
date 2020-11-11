@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Rafael Silva Cunha"
-resume_title:                   "Analista de Software e Gerente de Projeto"
+resume_title:                   "Analista de Software"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "rafael.s.cunha@live.com"

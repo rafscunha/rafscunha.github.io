@@ -1,18 +1,22 @@
 # Degree
-- degree: Técnico em Eletromecânica
-  uni: SENAI - Serviço Nacional de Aprendizagem Industrial
-  year: 2012 &mdash; 2013
-  awards:
-  summary: Representei o SENAI Foz do Iguaçu nas Olimpiedas do Conhecimento 2013
-
-- degree: Bacharelado em Ciência da Computação
-  uni: UNIOESTE - Universidade Estadual do Oeste do Paraná
-  year: 2015 &mdash; 2017
-  awards:
-  summary: Participei do CACC - Centro Acadêmico de Ciência da Computação e do Grupo de Linux
 
 - degree: Bacharelado em Engenharia Química
   uni: UNILA - Universidade Federal da Integração Latino-Americana
   year: 2018 - 2013 
   award: 
   summary: Participei do CAEQ - Centro Acadêmico de Engenharia Química 
+  
+- degree: Bacharelado em Ciência da Computação
+  uni: UNIOESTE - Universidade Estadual do Oeste do Paraná
+  year: 2015 &mdash; 2017
+  awards:
+  summary: Participei do CACC - Centro Acadêmico de Ciência da Computação e do Grupo de Linux
+
+- degree: Técnico em Eletromecânica
+  uni: SENAI - Serviço Nacional de Aprendizagem Industrial
+  year: 2012 &mdash; 2013
+  awards:
+  summary: Representei o SENAI Foz do Iguaçu nas Olimpiedas do Conhecimento 2013
+
+
+
