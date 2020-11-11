@@ -1,0 +1,63 @@
+# Site settings
+title: "Curriculo Rafael Cunha "
+description: "Curriculo profissional de Rafael Silva Cunha"
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Rafael Silva Cunha"
+resume_title:                   "Analista de Software e Engenheiro"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "rafael.s.cunha@live.com"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "45 99982-2074"
+resume_contact_address:         "Foz do Iguaçu, Paraná, Brasil"
+
+resume_header_contact_info:     "Foz do Iguaçu, Paraná, Brasil • 45 99982-2074 • rafael.s.cunha@live.com"
+display_header_contact_info:    "false"
+
+resume_header_intro: "<p>Iniciei minha carreira com trabalhos academicos que envolviam engenharia, controle e otimização computacional. Hoje atuo desenvolvendo controladores de temperatura e pressão para aplicação em fornos elétricos, assim como seus respectivos projetos mecânicos e elétricos</p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          true
+resume_section_recognition:     true
+resume_section_links:           true
+resume_section_associations:    true
+# resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/rafscunha"
+  # resume_twitter_url:           "http://twitter.com/jglovier"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_facebook_url:          "https://www.facebook.com/profile.php?id=100022561384351"
+  resume_linkedin_url:          "https://www.linkedin.com/in/rafael-cunha-247488127/"
+  resume_instagram_url:         "https://www.instagram.com/cunhasrafael"
+  # resume_website_url:           "http://joelglovier.com"
+  # resume_medium_url:            "https://medium.com/@jglovier"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts
