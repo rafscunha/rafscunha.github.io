@@ -1,12 +1,21 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Linguagens de Programação
+  description: C, C++, Java, Javascrip, Python, PHP, Ruby.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: FrameWorks
+  description: Ruby On Rails
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Outros
+  description: mySql, OAuth2
+  
+# Digital content development and creation
+- skill: Hardwares
+  description: ESP8266, Rapsbarry Pi e Arduino
+  
+  
+# Digital content development and creation
+- skill: Idiomas
+  description: Portugus, Inglês e Espanhol

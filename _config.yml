@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Rafael Silva Cunha"
-resume_title:                   "Analista de Software e Engenheiro"
+resume_title:                   "Analista de Software e Gerente de Projeto"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "rafael.s.cunha@live.com"
@@ -48,9 +48,9 @@ resume_social_links:
   resume_github_url:            "https://github.com/rafscunha"
   # resume_twitter_url:           "http://twitter.com/jglovier"
   # resume_dribbble_url:          "https://dribbble.com/jag"
-  resume_facebook_url:          "https://www.facebook.com/profile.php?id=100022561384351"
+  # resume_facebook_url:          "https://www.facebook.com/profile.php?id=100022561384351"
   resume_linkedin_url:          "https://www.linkedin.com/in/rafael-cunha-247488127/"
-  resume_instagram_url:         "https://www.instagram.com/cunhasrafael"
+  # resume_instagram_url:         "https://www.instagram.com/cunhasrafael"
   # resume_website_url:           "http://joelglovier.com"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
